@@ -1,0 +1,12 @@
+# Compiled executable
+StudentManagementSystem
+
+# Local student records
+students.txt
+
+# Object files
+*.o
+
+# Editor and OS files
+.vscode/
+.DS_Store
